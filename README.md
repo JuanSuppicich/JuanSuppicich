@@ -1,3 +1,3 @@
-# **Welcome**
+# **Welcome!**
 
-:wave:
+Hi, welcome to my personal repository! :wave: 
